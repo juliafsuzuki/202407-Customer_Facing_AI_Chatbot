@@ -8,24 +8,24 @@ Motivation: To complete the Learning Lab challenge offered by AI Leadership Inst
 
 Generative AI Techniques & Best Practices applied:
 1. Prompt engineering
-  - System prompt / Business information prompt / Knowledge base
-  - Zero-shot prompt (asked the model a question without providing an example)
-  - One-shot prompt (provided the model one example)
+    - System prompt / Business information prompt / Knowledge base
+    - Zero-shot prompt (asked the model a question without providing an example)
+    - One-shot prompt (provided the model one example)
 2. Model selection (GPT-3.5-turbo-16k, GPT-4.o)
 3. Model testing (unit + functional testing)
 4. Model evaluation (qualitative assessment on the model performance)
 5. Responsible AI
-  - Transparency
-  - Explainability
+    - Transparency
+    - Explainability
 6. Guiding Principles (4P's)
-  - Purpose
-  - People
-  - Persistence (aka. Guardrails, Jailbreaking)
-  - Perfection
+    - Purpose
+    - People
+    - Persistence (aka. Guardrails, Jailbreaking)
+    - Perfection
 
 Technologies & Tools used:
-- Microsoft Azure Open AI Service
-- Chatbot Builder AI
+  - Microsoft Azure Open AI Service
+  - Chatbot Builder AI
 
 Medium Blog Post:
 
