@@ -6,7 +6,7 @@ Project Description: As part of Learning Lab #1 by the AI Leadership Institute, 
 
 Motivation: To complete the Learning Lab challenge offered by AI Leadership Institute and receive a certificate of completion from the the AI Leadership Institute
 
-Generative AI Techniques & Best Practices Applied:
+Generative AI Techniques & Best Practices applied:
 1. Prompt engineering
   - System prompt / Business information prompt / Knowledge base
   - Zero-shot prompt (asked the model a question without providing an example)
@@ -22,6 +22,10 @@ Generative AI Techniques & Best Practices Applied:
   - People
   - Persistence (aka. Guardrails, Jailbreaking)
   - Perfection
+
+Technologies & Tools used:
+- Microsoft Azure Open AI Service
+- Chatbot Builder AI
 
 Medium Blog Post:
 
