@@ -24,4 +24,5 @@ Generative AI Techniques & Best Practices Applied:
   - Perfection
 
 Medium Blog Post:
-[https://medium.com/@julia.f.suzuki/project-spontaneous-behavior-prediction-based-on-neural-activity-in-visual-cortex-of-awake-mice-13625eef46e4](https://medium.com/@julia.f.suzuki/create-a-chatbot-using-microsoft-azure-open-ai-dc6fb72e20d2)
+
+- [https://medium.com/@julia.f.suzuki/project-spontaneous-behavior-prediction-based-on-neural-activity-in-visual-cortex-of-awake-mice-13625eef46e4](https://medium.com/@julia.f.suzuki/create-a-chatbot-using-microsoft-azure-open-ai-dc6fb72e20d2)
