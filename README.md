@@ -1,4 +1,4 @@
-# 202407 Helpful AI Assistant Chatbot
+# 202407 Customer Facing AI Chatbot
 
 Project Name: Helpful AI Assistant Chatbot created for the Rehabilitation Institute of Michigan (RIM) Foundation
 
